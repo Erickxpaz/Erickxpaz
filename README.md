@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Ericson!
 - 👀 I’m interested in learn and develop aplications and systems for use general.
-- 🌱 I’m currently learning  to program in Java and C#, looking to expand my knowledge and work in the programming area. 
+- 🌱 I’m currently learning  to program in Data Science in Python, looking to expand my knowledge and work in the programming area. 
 - 💞️ I’m looking to collaborate on projects that can help people in their needs.
 - 📫 How to reach me ...
 - Email - erickxpaz@gmail.com / wpp - +558198111-8440  / Instagram: @ericson.paz
